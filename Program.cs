@@ -1,3 +1,5 @@
+using dotnet_demo;   // 👈 THIS LINE FIXES EVERYTHING
+
 var taskManager = new TaskManager();
 
 Console.WriteLine("Task Tracker Demo");

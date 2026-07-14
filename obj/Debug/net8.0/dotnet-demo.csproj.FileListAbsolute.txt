@@ -3,3 +3,13 @@ F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\dotnet-demo.
 F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\dotnet-demo.AssemblyInfo.cs
 F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\dotnet-demo.csproj.CoreCompileInputs.cache
 F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\dotnet-demo.sourcelink.json
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\bin\Debug\net8.0\dotnet-demo.exe
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\bin\Debug\net8.0\dotnet-demo.deps.json
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\bin\Debug\net8.0\dotnet-demo.runtimeconfig.json
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\bin\Debug\net8.0\dotnet-demo.dll
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\bin\Debug\net8.0\dotnet-demo.pdb
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\dotnet-demo.dll
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\refint\dotnet-demo.dll
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\dotnet-demo.pdb
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\dotnet-demo.genruntimeconfig.cache
+F:\Practice\commands\sharedjenkinsrepo\dotnet-demo\obj\Debug\net8.0\ref\dotnet-demo.dll
