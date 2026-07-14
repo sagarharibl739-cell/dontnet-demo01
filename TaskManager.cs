@@ -23,6 +23,7 @@ namespace dotnet_demo      // 👈 ADD THIS
         public int GetCompletedTaskCount() => _completedTasks.Count;
 
         public string GetNextTask()
+
         {
             var pending = _tasks.FirstOrDefault(t => !_completedTasks.Contains(t));
             return pending ?? "No pending tasks";

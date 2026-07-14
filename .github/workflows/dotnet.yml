@@ -40,11 +40,9 @@ jobs:
         --logger "trx;LogFileName=test-results.trx" \
         --results-directory ./TestResults
 
-    # ✅ Debug step
     - name: List Files
       run: ls -R
 
-    # ✅ Publish results
     - name: Publish Test Results
       uses: dorny/test-reporter@v1
       if: always()
